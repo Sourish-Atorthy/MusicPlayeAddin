@@ -9,3 +9,7 @@ While working in Excel (or Word, or anywhere) we like to listen to some music. B
 ## Details
 
 Made in Microsoft VSTO, it is still a work in progress. Plan to add various features with time.
+
+## How to use?
+
+For now, just download the project and, build and run it. Voila! You Excel Add-In is ready. Will change this awkward way of using it with time.
